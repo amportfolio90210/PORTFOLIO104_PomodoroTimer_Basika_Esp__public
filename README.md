@@ -2,7 +2,7 @@
 
 # README
 
-This directory has the source code for Basika-Esp.
+This repo has the source code for Basika-Esp.
 
 Password available upon request.
 
