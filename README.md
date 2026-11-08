@@ -8,6 +8,6 @@ Password available upon request.
 
 {=}
 
-See ISKCO2025 for more info
+See ISKCO2025 for more info -> August 1st half entries
 
 {=}
