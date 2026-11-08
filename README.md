@@ -8,6 +8,9 @@ Password available upon request.
 
 {=}
 
+### ADMIN_NOTE
+
 See ISKCO2025 for more info -> August 1st half entries, including password
+
 
 {=}
